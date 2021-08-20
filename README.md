@@ -1,6 +1,6 @@
 # CC Video Instructions
 ### Known Bugs/Issues
-* You cannot generate your own pickle file
+* You cannot generate your own `.pkl` file
 * Excel files have a chance to become corrupted! Save and make copies at regular intervals during QC
 * The attached excel file *cannot* be open at the same time while QC is being done.
 
