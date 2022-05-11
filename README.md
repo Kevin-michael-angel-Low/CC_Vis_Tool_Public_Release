@@ -17,17 +17,6 @@ Changelog v1.2:
 Added two columns for “motion error” and “notes” that adds this data in separate columns to the attached excel sheet. 
 
 
-### Connecting to the Grid
-* In order to run this program, you must be connected to the grid (as the brain images/masks are stored on the grid). Make sure your VPN is on!
-* If you are not yet connected to the grid, see here for instructions:
-https://docs.google.com/document/d/17-mAa1ZxRhE9qbOywi-_obsEaWq1oID0wiPH4fJHbGE/edit
-* For mac, make sure you are mounted to the “faculty” folder in step 4 under the “for mac” instructions
-* For Windows, make sure you are connected via the instructions “Map a Drive” in step 3.
-
-### Program Location:
-`/ifs/loni//faculty/njahansh/nerds/klow/for_/team_tools/CCVis`
-`/Volumes/faculty/njahansh/nerds/klow/for_/team_tools/CCVis`
-`//smb-ifs.ini.usc.edu/faculty/njahansh/nerds/klow/for_/team_tools/CCVis`
 ### Folder Contents
 The script that will be used to run the program contains: 
 * the executable file `cc_final`
@@ -35,11 +24,6 @@ The script that will be used to run the program contains:
 * A “pickle” file that is contains the paths to the images
     * Note: Message Kevin Low (kevinlow@usc.edu) with help to generate this file, if it is not yet present
 
-
-### Downloading the Program
-1. Navigate to the folder `/Volumes/faculty/njahansh/nerds/klow/for_/team_tools/CCVis`
-2. There are two folders, `CCVis_Mac_Version` and `CCVis_Win_Version`. Choose which folder to select depending on your operating system (a Mac or Windows computer)
-3. Copy that folder, then paste that folder to your Documents folder (or another folder of your choice in your working directory/local machine)
 
 ### Starting the Program:
 #### Mac Instructions
