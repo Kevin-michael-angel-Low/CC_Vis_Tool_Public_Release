@@ -16,6 +16,7 @@ Changelog v1.2:
 * NOTE: WORK IN PROGRESS: The program now tells you if the image is currently being loaded or not. When the image is loaded correctly, there will be green text saying “Image Loaded!”. If the program is currently in the process of showing a new image, there will be a red text saying “Image Loading…”
 Added two columns for “motion error” and “notes” that adds this data in separate columns to the attached excel sheet. 
 
+![opening page](/Raw/opening_page.png)
 
 ### Folder Contents
 The script that will be used to run the program contains: 
